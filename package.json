@@ -1,6 +1,12 @@
 {
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
   "dependencies": {
     "typescript": "^4.9.4",
     "zod": "^3.20.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
   }
 }
